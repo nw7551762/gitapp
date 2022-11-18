@@ -1,4 +1,4 @@
 # gitapp
 EEIT56
 
-##git練習
+## git練習
